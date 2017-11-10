@@ -6,7 +6,7 @@
 
 digmydomains.sh
 
-### use it 
+### use it
 
 With here document
 
