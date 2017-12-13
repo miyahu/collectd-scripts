@@ -1,6 +1,4 @@
 # collectd-scripts
-* [Measure dns server response time with dig](#Measure-dns-server-response-time-with-dig)
-
 
 ##  Measure dns server response time with dig
 
@@ -18,4 +16,10 @@ LoadPlugin exec
         Exec user "/usr/local/scripts/collectd/digmydomains.sh"
 </Plugin>
 EOF
+```
+
+## Get snmp metrics from Fortigate
+
+```bash
+snmp.conf
 ```
